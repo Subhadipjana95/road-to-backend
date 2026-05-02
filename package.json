@@ -1,0 +1,24 @@
+{
+  "name": "road-to-backend",
+  "version": "1.0.0",
+  "description": "Backend learning and development",
+  "homepage": "https://github.com/Subhadipjana95/road-to-backend#readme",
+  "bugs": {
+    "url": "https://github.com/Subhadipjana95/road-to-backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Subhadipjana95/road-to-backend.git"
+  },
+  "license": "ISC",
+  "author": "Subhadip Jana",
+  "type": "commonjs",
+  "main": "script.js",
+  "scripts": {
+    "test": "node script.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {}
+}
